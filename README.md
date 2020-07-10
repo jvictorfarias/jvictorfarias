@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**jvictorfarias/jvictorfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # Joao Victor Farias <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="50px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/jvictorfarias/)
