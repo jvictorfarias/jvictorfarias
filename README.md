@@ -1,6 +1,6 @@
 ## Hello World !! :octocat: <br>
 
-:sparkling_heart: Technology lover | Computer scientist | Fullstack Developer
+Fullstack Developer
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvictorfarias&hide=contribs&theme=dracula&show_icons=true&hide_title=true)
